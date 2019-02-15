@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="waterJugProblem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/waterJugProblem_jar</output-path>
+    <root id="archive" name="waterJugProblem.jar">
+      <element id="module-output" name="waterJugProblem" />
+    </root>
+  </artifact>
+</component>
